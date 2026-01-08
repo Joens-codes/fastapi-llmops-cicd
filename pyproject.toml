@@ -1,6 +1,6 @@
 [project]
 name = "week2-day4-cicd-demo"
-version = "0.1.0"
+version = "0.1.1"
 description = "Week2 Day4 - GitHub Actions CI/CD demo for FastAPI on K8s"
 requires-python = ">=3.11"
 dependencies = [
